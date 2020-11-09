@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "ArabBoostApp",
+    "slug": "ArabBoostApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./images/araboost_logo.png",
+    "splash": {
+      "image": "./images/android-icon-72x72.png",
+      "backgroundColor": "#3F4257",
+      "width": "20",
+      "hight": "20"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./images/araboost_logo.png",
+        "backgroundColor": "#ddd"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
