@@ -1,6 +1,5 @@
 # rateEngagementInstaApp
-this app  for Rozn company
-,it is just a prototype! 
+this app  for Rozn company, it is just a prototype! 
 First screen!
 
 <img width="573" alt="Screen Shot 2020-11-07 at 12 11 36 AM" src="https://user-images.githubusercontent.com/62107424/98599489-ae793900-22e4-11eb-8893-d6ff4584da03.png">
